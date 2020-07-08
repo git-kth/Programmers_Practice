@@ -1,6 +1,4 @@
 # Programmers Practice With python3
-======================
-
 - - -
 https://aeye.tistory.com/
 ## Level1
