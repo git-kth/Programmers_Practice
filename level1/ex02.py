@@ -1,3 +1,4 @@
+# level1 - 2016년
 def solution(a, b):
     a = a - 1
     b = b - 1
