@@ -1,4 +1,4 @@
-# level1 -다트 게임
+# level1 - 다트 게임
 def solution(dartResult):
     answer = 0
     dartResult = list(dartResult.replace('10','t'))
