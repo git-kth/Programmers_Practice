@@ -17,3 +17,5 @@ https://aeye.tistory.com
     [[설명]](https://aeye.tistory.com/7) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex06.py)
 07. 행렬의 덧셈 
     [[설명]](https://aeye.tistory.com/8) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex07.py)
+08. 문자열 다루기 기본 
+    [[설명]](https://aeye.tistory.com/9) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex08.py)
