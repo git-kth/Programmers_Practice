@@ -1,7 +1,7 @@
 # Programmers Practice With Python3
 - - -
 https://aeye.tistory.com
-문제 순서는 아무 의미가 없습니다.
+문제 순서는 아무 의미가 없습니다.  
 ## Level1
 01. 다트 게임 
     [[설명]](https://aeye.tistory.com/2) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex01.py)
