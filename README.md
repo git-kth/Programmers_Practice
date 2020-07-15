@@ -19,3 +19,13 @@ https://aeye.tistory.com
     [[설명]](https://aeye.tistory.com/8) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex07.py)
 08. 문자열 다루기 기본 
     [[설명]](https://aeye.tistory.com/9) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex08.py)
+09. 제일 작은 수 제거하기 
+    [[설명]](https://aeye.tistory.com/10) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex09.py)
+10. 문자열을 정수로 바꾸기 
+    [[설명]](https://aeye.tistory.com/11) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex10.py)
+11. 핸드폰 번호 가리기 
+    [[설명]](https://aeye.tistory.com/12) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex11.py)
+12. 짝수와 홀수 
+    [[설명]](https://aeye.tistory.com/13) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex12.py)
+13. 정수 제곱근 판별
+    [[설명]](https://aeye.tistory.com/14) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex13.py)
