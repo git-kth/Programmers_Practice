@@ -31,3 +31,9 @@ https://aeye.tistory.com
     [[설명]](https://aeye.tistory.com/14) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex13.py)
 14. 문자열 내 마음대로 정렬하기
     [[설명]](https://aeye.tistory.com/15) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex14.py)
+15. 문자열 내림차순으로 배치하기 
+    [[설명]](https://aeye.tistory.com/16) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex15.py)
+16. 모의고사
+    [[설명]](https://aeye.tistory.com/17) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex16.py)
+17. 완주하지 못한 선수
+    [[설명]](https://aeye.tistory.com/18) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex17.py)
