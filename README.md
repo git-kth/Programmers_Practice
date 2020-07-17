@@ -37,3 +37,5 @@ https://aeye.tistory.com
     [[설명]](https://aeye.tistory.com/17) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex16.py)
 17. 완주하지 못한 선수
     [[설명]](https://aeye.tistory.com/18) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex17.py)
+18. 자연수 뒤집어 배열로 만들기
+    [[설명]](https://aeye.tistory.com/19) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex18.py)
