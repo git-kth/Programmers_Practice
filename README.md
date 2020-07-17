@@ -29,3 +29,5 @@ https://aeye.tistory.com
     [[설명]](https://aeye.tistory.com/13) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex12.py)
 13. 정수 제곱근 판별
     [[설명]](https://aeye.tistory.com/14) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex13.py)
+14. 문자열 내 마음대로 정렬하기
+    [[설명]](https://aeye.tistory.com/15) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex14.py)
