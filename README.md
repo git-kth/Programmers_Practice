@@ -39,3 +39,5 @@ https://aeye.tistory.com
     [[설명]](https://aeye.tistory.com/18) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex17.py)
 18. 자연수 뒤집어 배열로 만들기
     [[설명]](https://aeye.tistory.com/19) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex18.py)
+19. 직사각형 별찍기
+    [[설명]](https://aeye.tistory.com/20) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex19.py)
