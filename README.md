@@ -43,7 +43,8 @@ https://aeye.tistory.com
     [[설명]](https://aeye.tistory.com/20) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex19.py)
 20. x만큼 간격이 있는 n개의 숫자
     [[설명]](https://aeye.tistory.com/21) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex20.py)    
-    
+21. 서울에서 김서방 찾기
+    [[설명]](https://aeye.tistory.com/22) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex21.py)    
     
     
     
