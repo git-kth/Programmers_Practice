@@ -45,7 +45,8 @@ https://aeye.tistory.com
     [[설명]](https://aeye.tistory.com/21) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex20.py)    
 21. 서울에서 김서방 찾기
     [[설명]](https://aeye.tistory.com/22) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex21.py)    
-    
+22. 평균 구하기
+    [[설명]](https://aeye.tistory.com/23) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex22.py)
     
     
     
