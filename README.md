@@ -48,9 +48,9 @@ https://aeye.tistory.com
 22. 평균 구하기
     [[설명]](https://aeye.tistory.com/23) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex22.py)
 23. 정수 내림차순으로 배치하기
-    [[설명]](https://aeye.tistory.com/24) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex23.py)    
-    
-    
+    [[설명]](https://aeye.tistory.com/24) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex23.py)        
+24. 자릿수 더하기
+    [[설명]](https://aeye.tistory.com/25) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex24.py)    
     
     
     
