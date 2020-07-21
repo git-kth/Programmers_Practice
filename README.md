@@ -51,7 +51,8 @@ https://aeye.tistory.com
     [[설명]](https://aeye.tistory.com/24) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex23.py)        
 24. 자릿수 더하기
     [[설명]](https://aeye.tistory.com/25) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex24.py)    
-    
+25. 수박수박수박수박수박수?
+    [[설명]](https://aeye.tistory.com/26) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex25.py)    
     
     
     
