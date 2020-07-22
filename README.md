@@ -57,7 +57,8 @@ https://aeye.tistory.com
     [[설명]](https://aeye.tistory.com/27) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex26.py)    
 27. 시저 암호
     [[설명]](https://aeye.tistory.com/28) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex27.py)    
-    
+28. 약수의 합
+    [[설명]](https://aeye.tistory.com/29) [[코드]](https://github.com/git-kth/Programmers_Practice/blob/master/level1/ex28.py)    
     
     
     
